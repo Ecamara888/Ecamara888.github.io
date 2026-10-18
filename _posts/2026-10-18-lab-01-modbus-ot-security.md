@@ -64,7 +64,7 @@ protocol. What you *can* do is apply the ideas from **IEC 62443**:
 A couple of practical gotchas I hit: `tshark` only decodes Modbus on port 502 by default
 (I had to tell it `-d tcp.port==5502,mbtcp`), and Suricata needs `sudo` to read its config.
 
-The full write-up, scripts and detection rules are on my GitHub:
-[os-networks-lsbu / lab-01-modbus-ot-security](https://github.com/Ecamara888/os-networks-lsbu/tree/main/labs/lab-01-modbus-ot-security).
+The full write-up, scripts and detection rules live in my coursework repository (kept
+private while the module is in progress).
 
 _All testing was done against local simulators in an isolated lab VM._
