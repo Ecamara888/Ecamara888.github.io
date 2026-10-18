@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sobre mí
+title: About
 permalink: /about/
 ---
 
-Soy **Edgar Omar Camara Juro**, estudiante en London South Bank University (LSBU).
+I'm **Edgar Omar Camara Juro**, a student at London South Bank University (LSBU).
 
-Este blog recoge mis apuntes y prácticas del módulo de **Sistemas Operativos y Redes**, junto con mis intereses en **ciberseguridad** y **seguridad de sistemas industriales (OT/ICS)**.
+This blog collects my notes and labs from the **Operating Systems and Networks** module, along with my interests in **cybersecurity** and **industrial systems security (OT/ICS)**.
 
 - GitHub: [Ecamara888](https://github.com/Ecamara888)

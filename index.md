@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Inicio
+title: Home
 ---
 
-¡Bienvenido! Aquí comparto mis apuntes, laboratorios y lo que voy aprendiendo en el módulo de **Sistemas Operativos y Redes** de LSBU, además de temas de ciberseguridad que me interesan.
+Welcome! Here I share my notes, labs and what I learn in the **Operating Systems and Networks** module at LSBU, along with cybersecurity topics I'm interested in.
 
-Las entradas más recientes aparecen abajo.
+The most recent posts appear below.

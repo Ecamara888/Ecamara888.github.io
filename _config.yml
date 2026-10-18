@@ -1,14 +1,13 @@
-title: Edgar Camara — Notas de Sistemas Operativos y Redes
-description: Apuntes, laboratorios y aprendizajes de mis estudios en LSBU.
+title: Edgar Camara — Operating Systems & Networking Notes
+description: Notes, labs and learnings from my studies at LSBU.
 author: Edgar Omar Camara Juro
 theme: minima
-lang: es
+lang: en
 
-# Enlaces del menú superior
+# Top navigation links
 header_pages:
   - about.md
 
-# Redes (opcional, rellénalas si quieres que aparezcan)
 minima:
   social_links:
     github: Ecamara888
